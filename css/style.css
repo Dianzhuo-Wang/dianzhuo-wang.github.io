@@ -367,9 +367,14 @@ a:hover {
  * Hide ClustrMaps
  *------------------*/
 
- #clustrmaps {
+/* Hide ClustrMaps Widget */
+#clustrmaps,
+iframe[src*="clustrmaps"],
+a[href*="clustrmaps"] {
   display: none !important;
-  visibility: hidden;
-  height: 0;
-  width: 0;
+  visibility: hidden !important;
+  height: 0 !important;
+  width: 0 !important;
+  overflow: hidden !important;
+  position: absolute !important;
 }
