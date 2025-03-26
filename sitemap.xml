@@ -1,64 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- Updated Sitemap for Dianzhuo Wang -->
-
-<url>
-  <loc>https://dianzhuo-wang.github.io/</loc>
-  <lastmod>2025-03-01T12:00:00+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-
-<url>
-  <loc>https://dianzhuo-wang.github.io/#bio</loc>
-  <lastmod>2025-03-01T12:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-<url>
-  <loc>https://dianzhuo-wang.github.io/#pub</loc>
-  <lastmod>2025-03-01T12:00:00+00:00</lastmod>
-  <priority>0.85</priority>
-</url>
-
-<url>
-  <loc>https://dianzhuo-wang.github.io/#edu</loc>
-  <lastmod>2025-03-01T12:00:00+00:00</lastmod>
-  <priority>0.75</priority>
-</url>
-
-<url>
-  <loc>https://dianzhuo-wang.github.io/#services</loc>
-  <lastmod>2025-03-01T12:00:00+00:00</lastmod>
-  <priority>0.70</priority>
-</url>
-
-<!-- Research Papers -->
-<url>
-  <loc>https://www.pnas.org/doi/10.1073/pnas.2314518121</loc>
-  <lastmod>2025-03-01T12:00:00+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-
-<url>
-  <loc>https://static.scale.com/uploads/654197dc94d34f66c0f5184e/Publication%20Ready%20Humanity's%20Last%20Exam.pdf</loc>
-  <lastmod>2025-03-01T12:00:00+00:00</lastmod>
-  <priority>0.85</priority>
-</url>
-
-<url>
-  <loc>https://www.journals.uchicago.edu/doi/full/10.1086/729218</loc>
-  <lastmod>2025-03-01T12:00:00+00:00</lastmod>
-  <priority>0.85</priority>
-</url>
-
-<url>
-  <loc>https://www.mlsb.io/papers_2024/Does_Structural_Information_Improve_ESM3_for_Protein_Binding_Affinity_Prediction.pdf</loc>
-  <lastmod>2025-03-01T12:00:00+00:00</lastmod>
-  <priority>0.85</priority>
-</url>
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://dianzhuo-wang.github.io/</loc>
+    <lastmod>2025-03-01T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.00</priority>
+    <image:image>
+      <image:loc>https://dianzhuo-wang.github.io/assets/profile/selfie.JPG</image:loc>
+      <image:caption>Dianzhuo Wang - Harvard PhD Candidate</image:caption>
+    </image:image>
+    <!-- Add more image tags for research visuals -->
+  </url>
 </urlset>
